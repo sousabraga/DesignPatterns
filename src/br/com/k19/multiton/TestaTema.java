@@ -38,7 +38,6 @@ public class TestaTema {
         System.out.println("----------------------------------");
         System.out.println("Comparando as referências...");
         System.out.println(temaSky == temaSky2);
-        
-        
+
     }
 }
